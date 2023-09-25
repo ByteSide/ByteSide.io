@@ -21,5 +21,5 @@ Dive into our repositories where algorithms defy conventions and data transcends
 ### Contact
 For inquiries and prophecies, you can reach us at [ShinyGoldenGod@byteside.io](mailto:ShinyGoldenGod@byteside.io).
 
-Feel the bytes, explore the unknown.
-'''
+
+
