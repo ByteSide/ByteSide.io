@@ -1,3 +1,5 @@
+```
+
 $$$$$$$\              $$\                $$$$$$\  $$\       $$\               $$\           
 $$  __$$\             $$ |              $$  __$$\ \__|      $$ |              \__|          
 $$ |  $$ |$$\   $$\ $$$$$$\    $$$$$$\  $$ /  \__|$$\  $$$$$$$ | $$$$$$\      $$\  $$$$$$\  
@@ -10,10 +12,11 @@ $$$$$$$  |\$$$$$$$ |  \$$$$  |\$$$$$$$\ \$$$$$$  |$$ |\$$$$$$$ |\$$$$$$$\ $$\ $$
           \$$$$$$  |                                                                        
            \______/                                    
            
-
+``` 
 # ByteSide.io - AI Explorers Hub
 
-Welcome to the ByteSide.io GitHub repository. This is not just a playground; this is the frontier of AI exploration.
+Welcome to the ByteSide.io GitHub repository.
+This is not just a playground; this is the frontier of AI exploration.
 
 ## Follow the White Rabbit
 Dive into our repositories where algorithms defy conventions and data transcends meaning.
@@ -21,5 +24,5 @@ Dive into our repositories where algorithms defy conventions and data transcends
 ### Contact
 For inquiries and prophecies, you can reach us at [ShinyGoldenGod@byteside.io](mailto:ShinyGoldenGod@byteside.io).
 
-
-
+#### The future is unknown, and the unknown is our playground.
+ 
